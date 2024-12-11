@@ -12,7 +12,7 @@ app.get('/', (req,res) => {
   res.render('sanFelo')
 })
 
-app.use('/public', express.static('public'));
+app.use('/images', express.static(path.join(__dirname, 'public/images')));
 
 app.listen(3000, () => {
   console.log('R')
