@@ -1,0 +1,11 @@
+
+  <div id="cabezote" class="mt-4">
+    <ul class="list-unstyled d-flex justify-content-center align-items-center">
+      <li class="me-5">INMUEBLES</li>
+      <li class="me-5">NOTICIAS</li>
+      <li class="me-5">HERRAMIENTAS</li>
+      <li class="me-5 ms-5"></li>
+      <li class="ms-5">+ info (300) 838 05 14</li>
+    </ul>
+
+  </div>
